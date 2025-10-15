@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" alt="Ahtisham Tanveer Banner" width="100%"/>
+</p>
+
 <!-- ========================================= -->
 <!-- 🌐 Muhammad Ahtisham Tanveer GitHub README -->
 <!-- ========================================= -->
