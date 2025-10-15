@@ -1,15 +1,6 @@
-<p align="center" style="
-    background: radial-gradient(circle, #00111a, #002233);
-    background-image: url('https://i.ibb.co/XYZ/stars.png'); 
-    padding: 20px; 
-    border-radius: 12px; 
-    box-shadow: 0 0 15px #00bfff;
-">
-  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" 
-     <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg"
-       alt="Ahtisham Tanveer Banner" 
-       width="300" 
-       style="border-radius: 8px; box-shadow: 0 0 6px #00bfff;"/>
+<p align="center">
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" width="300" style="margin-right:10px;"/>
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="300"/>
 </p>
 
 
