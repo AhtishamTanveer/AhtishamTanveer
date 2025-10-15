@@ -1,10 +1,12 @@
-<p align="center">
+<p align="center" style="line-height: 0;">
   <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" 
        width="300" 
-       style="margin-right: -50px;"/> <!-- shift first image to the left -->
+       style="display: block; float: left;"/>
   <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" 
-       width="355"/>
+       width="355" 
+       style="display: block; float: left;"/>
 </p>
+
 
 <!-- ========================================= -->
 <!-- 🌐 Muhammad Ahtisham Tanveer GitHub README -->
