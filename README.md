@@ -1,10 +1,6 @@
-<p align="center" style="display: flex; justify-content: center;">
-  <div style="margin:0; padding:0;">
-    <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" width="300" style="display:block;"/>
-  </div>
-  <div style="margin:0; padding:0;">
-    <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="355" style="display:block;"/>
-  </div>
+<p align="center" style="line-height:0;">
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" width="300"/>
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="355"/>
 </p>
 
 
