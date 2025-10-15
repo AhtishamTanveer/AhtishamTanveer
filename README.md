@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" alt="Ahtisham Tanveer Banner" width="85%" style="border-radius: 10px;"/>
+ <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" alt="Ahtisham Tanveer Banner" width="800" style="max-width: 100%; border-radius: 10px;"/>
+
 </p>
 
 
