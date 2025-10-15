@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" 
        alt="Ahtisham Tanveer Banner" 
-       width="400" 
+       width="300" 
        style="border-radius: 10px; box-shadow: 0 0 8px #00bfff;"/>
 </p>
 
