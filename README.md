@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" width="300" style="margin-right:12px;"/>
-  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="355" style="margin-right:12px;"/>
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" 
+       width="300" 
+       style="margin-right: -50px;"/> <!-- shift first image to the left -->
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" 
+       width="355"/>
 </p>
-
 
 <!-- ========================================= -->
 <!-- 🌐 Muhammad Ahtisham Tanveer GitHub README -->
