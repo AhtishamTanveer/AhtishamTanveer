@@ -1,4 +1,10 @@
-<p align="center" style="background: linear-gradient(90deg, #00111a, #002233, #00111a); padding: 20px; border-radius: 12px; box-shadow: 0 0 15px #00bfff;">
+<p align="center" style="
+    background: radial-gradient(circle, #00111a, #002233);
+    background-image: url('https://i.ibb.co/XYZ/stars.png'); 
+    padding: 20px; 
+    border-radius: 12px; 
+    box-shadow: 0 0 15px #00bfff;
+">
   <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" 
        alt="Ahtisham Tanveer Banner" 
        width="300" 
