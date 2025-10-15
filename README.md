@@ -85,13 +85,13 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 🛠 *Arduino IDE · MQ4 · DHT11*  
 - Built an IoT-based monitoring system using gas + temperature sensors.  
 - Real-time dashboard for data visualization.  
-- 📂 [View on GitHub](https://github.com/yourusername/Environment-Monitoring-Using-IOT-Sensors)
+- 📂 [View on GitHub](https://github.com/AhtishamTanveer/Environment-Monitoring-Using-IOT-Sensors)
 
 #### 🔹 Deep Learning Image Classification  
 🛠 *Python · TensorFlow*  
 - Developed CNN models for image classification.  
 - Implemented preprocessing, augmentation, and performance metrics.  
-- 📂 [View on GitHub](https://github.com/yourusername/Deep_Learning_Image_Classification_Project)
+- 📂 [View on GitHub](https://github.com/AhtishamTanveer/Deep_Learning_Image_Classification_Project)
 
 ---
 
