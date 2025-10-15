@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" width="300" style="margin-right:10px;"/>
-  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="400"/>
+  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="300"/>
 </p>
 
 
