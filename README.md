@@ -9,6 +9,11 @@
        alt="Ahtisham Tanveer Banner" 
        width="300" 
        style="border-radius: 8px; box-shadow: 0 0 6px #00bfff;"/>
+
+     <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.png" 
+       alt="Ahtisham Tanveer Banner-bg" 
+       width="300" 
+       style="border-radius: 8px; box-shadow: 0 0 6px #00bfff;"/>
 </p>
 
 
