@@ -1,10 +1,10 @@
 <!-- ========================================= -->
-<!--      🌐 Ahtisham Tanveer GitHub README    -->
+<!-- 🌐 Muhammad Ahtisham Tanveer GitHub README -->
 <!-- ========================================= -->
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Ahtisham+Tanveer!;Cybersecurity+Student+%7C+Digital+Forensics+Enthusiast;ICDFA+Nigeria+Trainee+%7C;Passionate+About+Threat+Intelligence+%26+Forensics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Ahtisham+Tanveer!;Cybersecurity+Student+%7C+Digital+Forensics+Enthusiast;ICDFA+Nigeria+Trainee+%7C+Ethical+Hacker;Passionate+About+Threat+Intelligence+%26+Forensics" alt="Typing SVG" />
 </p>
 
 ---
@@ -98,12 +98,12 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhtishamTanveer&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhtishamTanveer&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhtishamTanveer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -121,7 +121,7 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 <p align="center">
   <a href="mailto:bcy222002@myu.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-ahtisham-0b36b0316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/AhtishamTanveer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
