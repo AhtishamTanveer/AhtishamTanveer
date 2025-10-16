@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" width="80%" />
-  <br>
-  <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="80%" />
-</p>
-
+<p align="center" style="line-height:0;"> <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner.png" width="300"/> <img src="https://github.com/AhtishamTanveer/AhtishamTanveer/blob/main/banner-bg.jpg" width="355"/> </p>
 
 <!-- ========================================= -->
 <!-- 🌐 Muhammad Ahtisham Tanveer GitHub README -->
