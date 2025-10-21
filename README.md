@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Ahtisham+Tanveer!;Cybersecurity+Student+%7C+Digital+Forensics+Enthusiast" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🧑‍💻 About Me  
