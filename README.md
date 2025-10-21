@@ -7,7 +7,6 @@
 </p>
 ---
 
-
 ### 🧑‍💻 About Me  
 
 🎓 **Cybersecurity Student** | 🔍 **Digital Forensics Enthusiast** | 🌍 **ICDFA Trainee (Nigeria)**  
