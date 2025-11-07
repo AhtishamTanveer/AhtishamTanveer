@@ -42,9 +42,6 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 ### 🎓 Education  
 
 📘 **B.S. Cybersecurity** – *Muslim Youth University, Islamabad* (2022 – Present)  
-📗 **Intermediate in Computer Science** – *Green Hills Science College, Muzaffarabad* (2020 – 2022)  
-🏆 *Achieved 75.45 % overall score*
-
 ---
 
 ### 🧑‍💼 Experience  
