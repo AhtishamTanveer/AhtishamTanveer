@@ -42,7 +42,7 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 ### 🎓 Education  
 ---
 
-📘 **B.S. Cybersecurity** – *Muslim Youth University, Islamabad* (2022 – Present)  
+📘 #### B.S. Cybersecurity** – *Muslim Youth University, Islamabad* (2022 – Present)  
 ---
 
 ### 🧑‍💼 Experience  
