@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Ahtisham+Tanveer!;Cybersecurity+Student+%7C+Digital+Forensics+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 🧑‍💻 About Me  
+### About Me  
 
-🎓 **Cybersecurity Student** | 🔍 **Digital Forensics Enthusiast** | 🌍 **ICDFA Trainee (Nigeria)**  
-📍 *Islamabad, Pakistan*  
+🎓 **Cybersecurity Student** |  **Digital Forensics Enthusiast** |  **ICDFA Trainee (Nigeria)**  
+*Islamabad, Pakistan*  
 
 💬 I’m passionate about **ethical hacking, cybercrime investigation, and threat analysis.**  
 I thrive on solving technical challenges, investigating security incidents, and strengthening digital infrastructures.  
@@ -19,10 +19,10 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 
 ### 🛠️ Technical Arsenal  
 
-#### 🧠 Core Skills  
+####  Core Skills  
 `Digital Forensics` • `Incident Response` • `Malware Analysis` • `OSINT` • `Penetration Testing` • `Threat Intelligence` • `ISO 27001 Compliance`
 
-#### 🧰 Tools & Frameworks  
+####  Tools & Frameworks  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -40,19 +40,19 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 
 ### 🎓 Education  
 
-#### 📘 B.S. Cybersecurity – Muslim Youth University, Islamabad (2022 – Present)  
+#### B.S. Cybersecurity – Muslim Youth University, Islamabad (2022 – Present)  
 ---
 
-### 🧑‍💼 Experience  
+### Experience  
 
-#### 🏛 National Cyber Crime Investigation Agency (NCCIA) — Intern  
-📆 Aug 2024 – Oct 2024 | 📍 Islamabad, Pakistan  
+#### National Cyber Crime Investigation Agency (NCCIA) — Intern  
+📆 Aug 2024 – Oct 2024 |  Islamabad, Pakistan  
 - Assisted in investigating cybercrime cases and analyzing digital evidence.  
 - Supported forensic imaging, reporting, and cyber operations.  
 - Learned law-enforcement investigation procedures and evidence handling.
 
-#### 🌍 International Cybersecurity & Digital Forensics Academy (ICDFA) — Trainee  
-📆 Aug 2025 – Dec 2025 (Expected) | 📍 Nasarawa State, Nigeria  
+#### International Cybersecurity & Digital Forensics Academy (ICDFA) — Trainee  
+📆 Aug 2025 – Dec 2025 | Nasarawa State, Nigeria  
 - Hands-on training in **forensic tools, cyber laws, network forensics, and malware analysis.**  
 - Worked on **cryptocurrency tracing** and **dark web investigations**.  
 - Tools: EnCase | FTK | Wireshark | Autopsy | Volatility
@@ -67,14 +67,11 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 | Google Cybersecurity Professional | Coursera |
 | Certified Ethical Hacker | Cisco |
 | Pen Testing & Ethical Hacking | Cybrary |
-| Security+ | Cybrary |
-| CEH | Udemy |
 | Dark Web Operations | Security Blue Team |
-
 ---
 ---
 
-### 📊 GitHub Analytics  
+### GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhtishamTanveer&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
@@ -86,7 +83,7 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 </p>
 
 
-### 🚀 Goals  
+### Goals  
 
 - Develop **open-source cybersecurity tools**  
 - Contribute to **digital forensics automation** projects  
@@ -94,7 +91,7 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 
 ---
 
-### 💬 Let's Connect  
+### Let's Connect  
 
 <p align="center">
   <a href="mailto:bcy222002@myu.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
