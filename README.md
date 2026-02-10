@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me  
 
 🎓 **Cybersecurity Student** | 🔍 **Digital Forensics Enthusiast** | 🌍 **ICDFA Trainee (Nigeria)**  
-📍 *Naval Anchorage, Islamabad, Pakistan*  
+📍 *Islamabad, Pakistan*  
 
 💬 I’m passionate about **ethical hacking, cybercrime investigation, and threat analysis.**  
 I thrive on solving technical challenges, investigating security incidents, and strengthening digital infrastructures.  
