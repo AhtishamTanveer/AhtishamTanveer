@@ -38,7 +38,7 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 
 ### 🎓 Education  
 
-#### B.S. Cybersecurity – Muslim Youth University, Islamabad (2022 – Present)  
+#### B.S. Computer Science-Cybersecurity – Muslim Youth University, Islamabad (2022 – 2026)  
 ---
 
 ### Experience  
@@ -61,10 +61,10 @@ Currently completing a **4-month Advanced Cybercrime Investigation Training** at
 
 | 🏅 Certification | 🎓 Issuer |
 |------------------|-----------|
+| Certified Ethical Hacker| EC-Council |
 | ISO 27001 Auditor | Mastermind |
 | Google Cybersecurity Professional | Coursera |
 | Certified Ethical Hacker | Cisco |
-| Pen Testing & Ethical Hacking | Cybrary |
 | Dark Web Operations | Security Blue Team |
 ---
 ---
