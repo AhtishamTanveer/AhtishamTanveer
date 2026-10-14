@@ -2,13 +2,11 @@
 <!-- 🌐 Muhammad Ahtisham Tanveer GitHub README -->
 <!-- ========================================= -->
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Ahtisham+Tanveer!;Cybersecurity+Student+%7C+Digital+Forensics+Enthusiast" alt="Typing SVG" />
-</p>
+
 
 ### About Me  
 
-🎓 **Cybersecurity Student** |  **Digital Forensics Enthusiast** |  **ICDFA Trainee (Nigeria)**  
+🎓 **Cybersecurity Graduate** |  **Digital Forensics, Network Security and SOC Enthusiast** |  **ICDFA Trainee (Nigeria)**  
 *Islamabad, Pakistan*  
 
 💬 I’m passionate about **ethical hacking, cybercrime investigation, and threat analysis.**  
