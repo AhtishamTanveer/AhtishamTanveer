@@ -1,7 +1,8 @@
 <h1 align="center">Ahtisham Tanveer</h1>
 
 <p align="center">
-  <b>Cybersecurity graduate | SOC · DFIR · Digital Forensics</b><br/>
+  <b>Cybersecurity · IT Support · Networking · Network Security</b><br/>
+  SOC · DFIR · Digital Forensics · Windows and Linux support<br/>
   Islamabad, Pakistan
 </p>
 
@@ -14,9 +15,11 @@
 
 ### About
 
-I am a BS Computer Science (Cybersecurity) graduate who likes working out what happened in an incident and building tools that make that faster. I trained in digital forensics and cybercrime investigation at ICDFA (Nigeria), interned at NCCIA, and run home labs where I simulate attacks and tune detections with Wazuh and Splunk.
+I am a BS Computer Science (Cybersecurity) graduate with hands-on experience on two sides of IT: **keeping systems and networks running** (Windows and Linux support, Active Directory, DNS/DHCP, firewalls) and **protecting and investigating them** (SOC monitoring, digital forensics, incident response).
 
-My latest project asks how far a small, fully local LLM can go in SOC triage when its answers are checked by code.
+I build and break things in my own labs, trace problems through logs, and write down every fix.
+
+**Open to:** Junior SOC / security analyst, DFIR and forensics roles, IT support / helpdesk / desktop support, junior system administrator, and network support or network security roles (internships included).
 
 ---
 
@@ -32,29 +35,49 @@ A lightweight SOAR pipeline that runs on an 8 GB laptop. Wazuh alerts are groupe
 
 ---
 
+### Featured lab: office IT and network environment
+
+An office-style environment built in VirtualBox, used to practise the daily work of IT support and network administration, and to see how it looks from the security side.
+
+- **Systems:** Windows Server with Active Directory (user management, access control, Group Policy), Windows and Linux endpoints, PowerShell and bash scripting, backups and patching.
+- **Network:** DNS and DHCP, VLANs, subnetting, routing and switching exercises.
+- **Network security:** pfSense firewall rules, tested from a Kali Linux client; Wireshark traffic analysis.
+- **Monitoring:** Wazuh and Splunk for centralized logging and alerts. I diagnosed and fixed simulated outages, misconfigured services and access problems, and documented each fix.
+
+`Windows Server` · `Active Directory` · `pfSense` · `Group Policy` · `DNS/DHCP` · `Wireshark` · `Wazuh` · `Splunk`
+
+---
+
 ### Skills
 
 | Area | Tools and topics |
 |---|---|
-| Digital forensics | Autopsy, FTK Imager, Volatility, EnCase, evidence handling, chain of custody, forensic reporting |
+| IT support and helpdesk | Windows 10 and 11 troubleshooting and setup, software installation, printer and antivirus support, hardware and peripheral support, user account and password management, remote support (RDP, VPN), Microsoft 365 (Outlook, Teams), technical documentation |
+| Systems administration | Windows Server, Active Directory, Group Policy, Linux, VirtualBox, backup and patching, user management and access control |
+| Networking | TCP/IP, DNS, DHCP, LAN/WAN, VLANs, subnetting, routing and switching |
+| Network security | pfSense firewall, firewall rule testing, Wireshark, Nmap |
 | SOC and DFIR | Wazuh, Splunk, DFIR-IRIS, Velociraptor, alert triage, IOC identification, threat hunting, incident response |
-| Security tools | Wireshark, Nmap, Burp Suite, Metasploit |
-| Systems and networking | Windows Server (Active Directory), Linux, pfSense, TCP/IP, DNS, DHCP, VirtualBox |
-| Languages | Python, Bash, PowerShell |
+| Digital forensics | Autopsy, FTK Imager, Volatility, EnCase, evidence handling, chain of custody, forensic reporting |
+| Security testing | Burp Suite, Metasploit, Kali Linux |
+| Scripting | Python, PowerShell, Bash |
 
 ---
 
 ### Experience
 
-**Cybercrime Investigation Intern, National Cyber Crime Investigation Agency (NCCIA)**, Aug 2024 to Oct 2024
+**Intern (Cybercrime Investigation and IT Operations), National Cyber Crime Investigation Agency (NCCIA)**, Aug 2024 to Oct 2024
 - Supported investigators on cybercrime cases, with evidence documentation and forensic imaging.
-- Gained exposure to national cybercrime investigation workflows, legal frameworks and chain-of-custody standards.
+- Handled workstation setup, hardware handling and digital record-keeping in a government IT environment.
+- Followed chain-of-custody, data-handling and compliance procedures.
 
 **Threat Hunting Intelligence & Research Intern (Remote), Thincs-Corp, Dubai**, 2024 (8 weeks)
 - Ran threat hunting exercises to look for suspicious network behaviour using intelligence-driven methods.
 - Analyzed threat intelligence feeds and produced IOC reports; researched attacker techniques and TTPs.
 
 **Cybersecurity Intern, Security Experts Pvt. Ltd.**, Aug 2024 to Sep 2024
+
+**Volunteer Management Intern, Al-Khidmat Foundation**, Jul 2026 to Sep 2026
+- Managed volunteer registration records and databases with Microsoft Office and prepared reports.
 
 ---
 
@@ -64,18 +87,14 @@ A lightweight SOAR pipeline that runs on an 8 GB laptop. Wazuh alerts are groupe
 - Six months of advanced training: digital evidence acquisition, chain of custody, memory forensics, malware analysis, and court-admissible forensic reporting.
 - Produced 8 forensic investigation reports covering memory, browser, malware, mobile, network and financial cybercrime: [Advance_Cybercrime_Investigations_Projects](https://github.com/AhtishamTanveer/Advance_Cybercrime_Investigations_Projects)
 
----
-
-### More projects
-
-- **Home lab: SOC and forensics environment** (VirtualBox, Kali Linux, Windows, Wazuh, Splunk). Simulated attacks from Kali, watched the alerts they produced, and tuned detection rules.
-- **Home lab: office IT and network environment** (Windows Server with Active Directory, Linux endpoints, pfSense). DNS/DHCP, firewall rules, centralized logging with Wazuh and Splunk, and documented fixes for simulated problems.
+**Cyber Security (CEH) Certificate Course, NAVTTC (PMYSDP Batch III), Grade A**, Feb to May 2026
 
 ---
 
 ### Education
 
 **B.S. Computer Science (Cybersecurity)**, Muslim Youth University, Islamabad, 2022 to Aug 2026
+Relevant coursework: Computer Networks, Operating Systems, Database Systems, Information Security, Digital Forensics, Python, C++
 
 ---
 
@@ -89,13 +108,14 @@ A lightweight SOAR pipeline that runs on an 8 GB laptop. Wazuh alerts are groupe
 | ISO 27001 Information Security Auditor | Mastermind |
 | Google Cybersecurity Professional Certificate | Google / Coursera |
 | Security Operations Center (SOC) in Practice | IBM |
+| One-Year Computer Diploma | |
 
 ---
 
 ### Goals
 
-- Work in a SOC or DFIR team and grow into threat intelligence and incident response.
-- Keep building open, well-documented security tooling and measure how well it works.
+- Start in IT support, networking or a SOC and grow into network security, incident response and threat intelligence.
+- Keep building open, well-documented tools and measure how well they work.
 
 ---
 
